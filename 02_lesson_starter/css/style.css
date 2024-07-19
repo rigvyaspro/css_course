@@ -1,0 +1,27 @@
+html{
+    font-family:monospace;
+}
+
+p{
+    font-size: 64px;
+    color:purple;
+}
+body{
+    font-size: 22px;
+}
+p{
+    color:rgb(106, 36, 6);
+}
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+}
+.pink{
+    color:rgb(6, 43, 176);
+}
+#second{
+    font-style: italic;
+}
+h1, h2{
+    color:green;
+}
